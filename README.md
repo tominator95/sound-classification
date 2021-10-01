@@ -1,2 +1,6 @@
-# sound-classification
+# Industrial Sound Classification and Anomaly Detection
  
+The failure of a machine during ongoing production is a major challenge for industrial companies. Nowadays, a number of sensors monitor the machines. This enables continuous condition monitoring of the machine. Predictive methods are also used to predict the time of failure of a machine based on the sensor technology. Microphones attached to the machines represent one possibility of sensor technology. These continuously record the resulting noises. The aim of this repository is first to classify normal and abnormal noise conditions of machines. The data basis is the [MIMII dataset](https://zenodo.org/record/3384388#.YVdGNbgzaUk) (Malfunctioning Industrial Machine Investigation and Inspection).
+> [1] Harsh Purohit, Ryo Tanabe, Kenji Ichige, Takashi Endo, Yuki Nikaido, Kaori Suefusa, and Yohei Kawaguchi, “MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection,” arXiv preprint arXiv:1909.09347, 2019. URL: https://arxiv.org/abs/1909.09347
+
+> [2] Harsh Purohit, Ryo Tanabe, Kenji Ichige, Takashi Endo, Yuki Nikaido, Kaori Suefusa, and Yohei Kawaguchi, “MIMII Dataset: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection,” in Proc. 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), 2019.
